@@ -33,3 +33,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# General Stuff
+.DS_Store
+Backup*.docx
