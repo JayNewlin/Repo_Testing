@@ -37,3 +37,4 @@ nosetests.xml
 # General Stuff
 .DS_Store
 Backup*.docx
+*.tmp
