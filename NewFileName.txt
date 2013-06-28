@@ -1,2 +1,4 @@
 This is another new file for testing purposes.
 Let's see which branch the torn-off window is working with.
+This file edited with TextEdit.
+
