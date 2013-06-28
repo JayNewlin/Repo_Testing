@@ -38,3 +38,6 @@ nosetests.xml
 .DS_Store
 Backup*.docx
 *.tmp
+
+anotherfile.toignore
+newfile_jrn_20130628-1638.toignore
