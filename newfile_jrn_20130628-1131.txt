@@ -1,0 +1,2 @@
+This is a new file for stashing.
+I edited this file in Sublime 2.
