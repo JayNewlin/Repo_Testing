@@ -1,0 +1,1 @@
+What happens to this file when I switch branches?

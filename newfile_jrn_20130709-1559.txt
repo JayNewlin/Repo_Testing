@@ -1,0 +1,3 @@
+This tests remote pull with local change, Ticket #1450.
+I add another line for continued testing.
+
