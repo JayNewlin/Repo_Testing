@@ -1,1 +1,2 @@
-What happens now, Ticket #1451
+This is the test file for Ticket #1451
+What happens now, Ticket #1451?
