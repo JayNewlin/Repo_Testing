@@ -1,3 +1,0 @@
-Another new file for Ticket 1450
-THIS is the file that I should be testing.
-
