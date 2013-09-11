@@ -1,2 +1,2 @@
 This is a new file for today.
-And I modified it on a different day.
+And I also modified this line on a different day.
