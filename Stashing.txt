@@ -1,0 +1,3 @@
+This is a file created for stashing.
+There is more than one line.
+As a matter of fact, there are three.
